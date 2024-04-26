@@ -1,0 +1,15 @@
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\bin\Debug\net8.0\Store.Repository.deps.json
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\bin\Debug\net8.0\Store.Repository.dll
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\bin\Debug\net8.0\Store.Repository.pdb
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\bin\Debug\net8.0\Store.Data.dll
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\bin\Debug\net8.0\Store.Data.pdb
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.AssemblyReference.cache
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfoInputs.cache
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfo.cs
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Re.0C98E3FA.Up2Date
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.dll
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
+D:\@mycarer\# الكارير\خالد\C#\@C#\Store.API\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
